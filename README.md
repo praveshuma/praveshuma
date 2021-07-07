@@ -2,7 +2,7 @@
 - 👀 I’m interested in data analytics
 - 🌱 I’m currently learning Python and Deep learning
 - 💞️ I’m looking to collaborate on projects, meetings.
-- 📫 Ping me through my email
+- 📫 Ping me through my email > umapravesh@gmail.com
 
 <!---
 praveshuma/praveshuma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
