@@ -1,7 +1,15 @@
 - 👋 Hi, I’m @praveshuma 
+- 
 - 👀 I’m interested in data analytics
+- 
 - 🌱 I’m currently learning Python and Deep learning
+- 
 - 💞️ I’m looking to collaborate on projects, meetings.
+- 
+- 😉 Fun to learn anything interestingly..
+- 
+- 📰 Loves to read news articles
+-
 - 📫 Ping me through my email > umapravesh@gmail.com
 
 <!---
