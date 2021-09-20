@@ -1,9 +1,11 @@
 - 👋 Hi, I’m @praveshuma 
 - 
-- 👀 I’m interested in data analytics
+- 👀 I’m interested in data analytics.
 - 
-- 🌱 I’m currently learning Python and Deep learning
+- 🌱 I’m currently learning Python and Deep learning.
 - 
+-📌Learning technological skills like google cloud, AWS cloud and certification is on-progress.
+-
 - 💞️ I’m looking to collaborate on projects, meetings.
 - 
 - 😉 Fun to learn anything interestingly..
