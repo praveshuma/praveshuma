@@ -11,7 +11,9 @@
 - 😉 Fun to learn anything interestingly..
 - 
 - 📰 Loves to read news articles
--
+- 
+- ❤ Loves to write and maintain a blog
+- 
 - 📫 Ping me through my email > umapravesh@gmail.com
 
 <!---
